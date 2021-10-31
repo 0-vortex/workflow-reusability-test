@@ -1,4 +1,4 @@
-name: "Compliance"
+name: "Open Sauced Compliance"
 
 on:
   pull_request_target:
